@@ -5,4 +5,4 @@
 * https://github.com/ysoftwareab
 * https://github.com/for-GET
 
-# Find more info about me at http://andreineculau.com
+# Find more at http://ysoftware.se and http://andreineculau.com
